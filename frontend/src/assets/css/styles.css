@@ -23,10 +23,11 @@ html, body {
     text-align: center;
 }
 
-.bg-primary {
+.bg {
     background-color: var(--color-primary) !important;
 }
 
-.text-primary {
+.text {
+  
     color: var(--color-primary) !important;
 }
